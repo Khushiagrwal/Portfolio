@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.732bd1fc.css",
+    "main.js": "/Portfolio/static/js/main.524dcd79.js",
+    "static/media/IMG.png": "/Portfolio/static/media/IMG.da44e0827edea8382f06.png",
+    "static/media/anime2.jpeg": "/Portfolio/static/media/anime2.ab529eef6cba694f15bb.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.a2b3a15cca5ba2f0ba3a.pdf",
+    "main.732bd1fc.css.map": "/Portfolio/static/css/main.732bd1fc.css.map",
+    "main.524dcd79.js.map": "/Portfolio/static/js/main.524dcd79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732bd1fc.css",
+    "static/js/main.524dcd79.js"
+  ]
+}
