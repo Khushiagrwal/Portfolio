@@ -1,6 +1,7 @@
 Hey ! I am Khushi Agarwal 
 This is my portfolio website
 
+ https://khushiagrwal.github.io/Portfolio/ -- this is my depolyed link
 1.
 React Js,html,css  use to make this portfolio
 npx create-react-app
